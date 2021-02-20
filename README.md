@@ -12,6 +12,7 @@ cake = CakePHP
 ## 1. 環境
 ・CakePHP 3.9系  
 ・MariaDB 10.2.2以上 (MySQL5.5以上でも可)  
+・Vue CLI 4.5.11 ※バージョンは問わず  
  
 ## 2. インストール方法
 [https://www.petitmonte.com/php/cakephp-vue-crud.html](https://www.petitmonte.com/php/cakephp-vue-crud.html)  
