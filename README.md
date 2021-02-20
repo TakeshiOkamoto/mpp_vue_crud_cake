@@ -1,4 +1,4 @@
-# CakePHP + Vue.js + AxiosでCRUDのサンプルプロジェクト
+# CakePHP + Vue CLI(Vue.js + Axios)でCRUDのサンプルプロジェクト
   
 DEMO    
 [https://www.petitmonte.com/cake/mpp_vue_crud_cake/](https://www.petitmonte.com/cake/mpp_vue_crud_cake/)  
